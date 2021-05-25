@@ -1,0 +1,21 @@
+.dash{
+
+display : flex
+
+}
+
+
+.cardItem{
+    height : 200px;
+    width: 300px;
+    box-shadow: 0px 6px 20px 0px green  ; 
+
+}
+
+.cardbig{
+
+    height : 200px;
+    width: 1055px;
+    box-shadow: 0px 6px 20px 0px green  ; 
+
+}
